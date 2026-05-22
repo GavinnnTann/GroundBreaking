@@ -5,7 +5,7 @@
 
 A drone-deployable, solar-powered IoT sensor network for autonomous forest carbon monitoring. Built on a LoRa mesh architecture with self-healing routing, K-Means optimised node placement, and a shock-resistant self-righting capsule designed to survive a 30m drone drop — no human setup required.
 
-Built for **ST Engineering** as a Term 4 EPD Design Thinking Project at **Singapore University of Technology and Design (SUTD)**, Group 7.
+Built for **ST Engineering** as a Term 4 EPD Design Thinking Project at **Singapore University of Technology and Design (SUTD) 2025**, Group 7.
 
 ---
 
